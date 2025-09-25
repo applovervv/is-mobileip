@@ -1,0 +1,19 @@
+{
+  "name": "is-mobileip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "applover",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/applovervv/is-mobileip.git"
+  },
+  "bugs": {
+    "url": "https://github.com/applovervv/is-mobileip/issues"
+  },
+  "homepage": "https://github.com/applovervv/is-mobileip#readme",
+  "description": ""
+}
